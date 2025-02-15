@@ -8,9 +8,9 @@ This project contains a series of NLP tasks performed on a collection of texts, 
    - Word frequency statistics
    - Plot of 25 most common words
 2. Stemming using Porter and Lancaster stemmers
-   -Comparison of stemmed and unstemmed results
-3. POS-tagging on Tom Sawyer translations (nl-en-de)
-   -Frequency report of POS tags.
+   - Comparison of stemmed and unstemmed results
+4. POS-tagging on Tom Sawyer translations (nl-en-de)
+   - Frequency report of POS tags.
 
 ## Part II
 
